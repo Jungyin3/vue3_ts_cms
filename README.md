@@ -1,29 +1,17 @@
 # vue3_ts_cms
 
-## Project setup
+## 启动项目
 
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 项目介绍
 
 ```
-npm run build
+技术栈：Vue3+TypeScript+Vite+Element-Plus
+项目自身：后台管理系统前台界面
 ```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
